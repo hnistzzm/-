@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T05:34:21.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rWtUB9oICNNBcwbpAR_b" version="21.1.8" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-04-18T06:02:02.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oA6DdFlNDA5E-hx2a2Jp" version="21.1.8" type="github" pages="12">
   <diagram id="IdKy-Np1D6Uen423a7zQ" name="第 1 页">
     <mxGraphModel dx="828" dy="1886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -440,7 +440,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IBcVOvChMj_BP4UtzhV0" name="第 2 页">
-    <mxGraphModel dx="828" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -465,12 +465,12 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wYOnDEDihiUcXf3WW8H4-43" value="是否主键" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wYOnDEDihiUcXf3WW8H4-39">
+        <mxCell id="wYOnDEDihiUcXf3WW8H4-43" value="是否主段" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wYOnDEDihiUcXf3WW8H4-39">
           <mxGeometry x="252" width="84" height="35" as="geometry">
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wYOnDEDihiUcXf3WW8H4-44" value="是否外键" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wYOnDEDihiUcXf3WW8H4-39">
+        <mxCell id="wYOnDEDihiUcXf3WW8H4-44" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;是否外部关联字段&lt;/span&gt;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wYOnDEDihiUcXf3WW8H4-39">
           <mxGeometry x="336" width="84" height="35" as="geometry">
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
@@ -783,20 +783,17 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wYOnDEDihiUcXf3WW8H4-132" value="cs_user 表" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="420" y="90" width="100" height="40" as="geometry" />
+        <mxCell id="RKjwiXW_R1QYx023aRdF-1" value="cs_user 表" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="427" y="194" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="NNyTymQ4MxrZfdY2XGZW" name="第 3 页">
-    <mxGraphModel dx="828" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GvymfNZ9_81oXbCpBDCC-50" value="sc_cart 表" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="83" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="NYc_9vDbg64fzY2v-aus-74" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="218" y="290" width="420" height="289.50006103515625" as="geometry" />
         </mxCell>
@@ -818,12 +815,12 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYc_9vDbg64fzY2v-aus-79" value="是否主键" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYc_9vDbg64fzY2v-aus-75">
+        <mxCell id="NYc_9vDbg64fzY2v-aus-79" value="是否主段" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYc_9vDbg64fzY2v-aus-75">
           <mxGeometry x="252" width="84" height="35" as="geometry">
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYc_9vDbg64fzY2v-aus-80" value="是否外键" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYc_9vDbg64fzY2v-aus-75">
+        <mxCell id="NYc_9vDbg64fzY2v-aus-80" value="是否外部关联字段" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYc_9vDbg64fzY2v-aus-75">
           <mxGeometry x="336" width="84" height="35" as="geometry">
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
@@ -1024,17 +1021,17 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Kh9aCzz9_PlnNxGVSnKM-2" value="sc_cart 表" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="83" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="vXBKWPFjOxLUe9_FWGds" name="第 4 页">
-    <mxGraphModel dx="662" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="583" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3Tiysou5AkQURZvbLSmL-75" value="sc_category&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="337" y="115" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="3Tiysou5AkQURZvbLSmL-76" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="204" y="200" width="420" height="435" as="geometry" />
         </mxCell>
@@ -1374,17 +1371,17 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ILa1ZQzCZOSO7o1PerU1-1" value="sc_category&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="337" y="115" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="YM7LCqtgN9ECRutfWFEh" name="第 5 页">
-    <mxGraphModel dx="828" dy="1886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1898" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4cd6_XYj0puOn8kSu27d-1" value="sc_classify&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="306" y="-575" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="4cd6_XYj0puOn8kSu27d-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="223" y="-474" width="420" height="220.5" as="geometry" />
         </mxCell>
@@ -1556,11 +1553,14 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uc7hV_ORjqJH4SE8J0-k-1" value="sc_classify&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="306" y="-575" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="65FDnpUTG8h_h_1Pw1ry" name="第 6 页">
-    <mxGraphModel dx="828" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1763,20 +1763,17 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tFghhZeIjvX_vCsP8m0Q-74" value="sc_comment" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="IxVCpW1DNxKEiciQp7bk-1" value="sc_comment" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="347" y="42" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="vHY023lg8cXjCYca7AqL" name="第 7 页">
-    <mxGraphModel dx="828" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kAFbGKahtZV4HEBtrkfH-1" value="sc_favor" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="366" y="82" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="kAFbGKahtZV4HEBtrkfH-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="201" y="178" width="420" height="224.25003051757812" as="geometry" />
         </mxCell>
@@ -1948,17 +1945,17 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-4VtP6KfSzkZWT5j9j3O-1" value="sc_favor" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="366" y="82" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="WGqMd9o09pOHeDngHttW" name="第 8 页">
-    <mxGraphModel dx="828" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ids-pTCiDZFlw10ygH65-1" value="sc_goods" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="384" y="113" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ids-pTCiDZFlw10ygH65-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="202" y="186" width="420" height="468.2500915527344" as="geometry" />
         </mxCell>
@@ -2326,11 +2323,14 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lknew70vqhwvHf-eDDDq-1" value="sc_goods" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="384" y="113" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="PoVayJSwJ_mhlg_3aDRN" name="第 9 页">
-    <mxGraphModel dx="828" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2701,20 +2701,17 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxZYwx_00aqPIP60D8KD-76" value="sc_order" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="Nm4z5mb5pSIhg276nUHb-1" value="sc_order" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="351" y="144" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="YPT7CoZV1k_zXA-u3czK" name="第 10 页">
-    <mxGraphModel dx="828" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="er7YWe_7JEoMGap4_kw8-1" value="sc_order_detail" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="364" y="134" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="er7YWe_7JEoMGap4_kw8-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="213" y="262" width="420" height="391.7500915527344" as="geometry" />
         </mxCell>
@@ -3026,17 +3023,17 @@
             <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Obs7y5g3fnKs1l4BcAtX-1" value="sc_order_detail" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="364" y="134" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="101A-tFozveOqFe2Fu4K" name="第 11 页">
-    <mxGraphModel dx="828" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VEg5Lz81Zy0ylxsXPgca-1" value="sc_payment" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="379" y="135" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="VEg5Lz81Zy0ylxsXPgca-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="231" y="255" width="420" height="260.75" as="geometry" />
         </mxCell>
@@ -3236,17 +3233,17 @@
             <mxRectangle width="81" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Kaz_92RodslBp2YQvMGT-1" value="sc_payment" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="379" y="135" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-JiJLLnoj2wSp5lLVh75" name="第 12 页">
-    <mxGraphModel dx="828" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TTnpNJYIdsW4utXcn-FX-1" value="收货信息" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="279" y="162" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="TTnpNJYIdsW4utXcn-FX-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="212" y="312" width="420" height="422.000244140625" as="geometry" />
         </mxCell>
@@ -3585,6 +3582,9 @@
           <mxGeometry x="336" width="84" height="34" as="geometry">
             <mxRectangle width="84" height="34" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3CoIv_t2o7NBFlDsuxj8-1" value="sc_receipt" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="279" y="162" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
