@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T14:21:10.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="V13et4zwn0BNrXjxXy-g" version="21.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T14:21:48.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="sUl08z3ra8OhgR2nZXnz" version="21.2.8" type="github">
   <diagram name="第 1 页" id="yId8BnO_DWNSLCKFfDVW">
-    <mxGraphModel dx="1195" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1fmI-zn1IeItpn9nNF7c-5" value="电商小程序后台管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1fmI-zn1IeItpn9nNF7c-57" value="状态更新" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;spacingLeft=3;spacingRight=2;spacingBottom=2;flipV=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="945" width="30" height="110" as="geometry" />
         </mxCell>
